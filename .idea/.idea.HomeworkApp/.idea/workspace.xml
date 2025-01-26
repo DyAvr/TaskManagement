@@ -8,79 +8,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b90168-c7ac-4695-b2d5-6edfde397752" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HomeworkApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HomeworkApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/Debug/net7.0/HomeworkApp.Bll.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/HomeworkApp.Bll.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/HomeworkApp.Bll.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/HomeworkApp.Bll.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Bll/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/Debug/net7.0/HomeworkApp.Dal.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/HomeworkApp.Dal.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/HomeworkApp.Dal.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/HomeworkApp.Dal.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Dal/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/1255d1a520d30ea4_enums.protodep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/1255d1a520d30ea4_tasks.protodep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/HomeworkApp.Proto.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/Protos/Enums.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/Protos/EnumsGrpc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/Protos/Tasks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/Debug/net7.0/Protos/TasksGrpc.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/HomeworkApp.Proto.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/HomeworkApp.Proto.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/HomeworkApp.Proto.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp.Proto/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/HomeworkApp.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/HomeworkApp.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/HomeworkApp.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkApp/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/HomeworkApp.IntegrationTests/obj/Debug/net7.0/HomeworkApp.IntegrationTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/HomeworkApp.IntegrationTests/obj/Debug/net7.0/HomeworkApp.IntegrationTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TaskManagement/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.homework.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.homework.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/db_schema.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/01-prepare-environment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/02-db-description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/03-sql-guidelines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/db_schema.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/01-init-schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/02-seed-data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/03-add-indexes.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/04-populate-users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/05-populate-tasks.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/06-populate-task_logs.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts/07-populate-task_comments.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="preview-1" />
@@ -91,11 +50,27 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="preview-1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;dmitriy_borisov_01&quot;,
+      &quot;fullname&quot;: &quot;Дмитрий Борисов&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.ozon.dev/dmitriy_borisov_01/homework-6.git&quot;,
+    &quot;second&quot;: &quot;c566effe-b972-4671-af19-6c1a8be79de0&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -106,12 +81,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="preview" />
-                    <option name="lastUsedInstant" value="1709416114" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="preview-1" />
-                    <option name="lastUsedInstant" value="1709416054" />
+                    <option name="branchName" value="devtask/CSJHW-6" />
+                    <option name="lastUsedInstant" value="1712781789" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -127,35 +98,77 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/mgrishkov/Repos/Route256/11-stream/week-6/homework/src/HomeworkApp/obj/Debug/net7.0/HomeworkApp.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Entities/TaskMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Enums/TaskStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Extensions/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Models/AssignTaskModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Services/Interfaces/IRateLimitService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Services/Interfaces/ITaskService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Services/RateLimiterService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Bll/Services/TaskService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Entities/TaskCommentEntityV1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Entities/TaskEntityV1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Entities/TaskLogEntityV1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Enums/TaskStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Extensions/HostExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Extensions/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement.Dal/Infrastructure/Postgres.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement/Services/TasksService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TaskManagement/appsettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2d9JTrdS3LiPvV370kXZfmhhnmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;preview&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.HomeworkApp: local.executor": "Run",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "a023b722-86cc-4cec-bad1-b26f4c98a552.executor": "Debug",
+    "cf910e2d-8649-42ee-b4be-dd8621bd47b1.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/source/idea/homework-6/HomeworkApp.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/mgrishkov/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/mgrishkov/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/mgrishkov/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "redis"
     ]
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.HomeworkApp: local">
     <configuration name="HomeworkApp: local" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/HomeworkApp/HomeworkApp.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/TaskManagement/TaskManagement.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
       <option name="LAUNCH_PROFILE_NAME" value="local" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -169,6 +182,25 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.HomeworkApp: local" />
+      <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -180,6 +212,12 @@
       <updated>1709414371965</updated>
       <workItem from="1709414373068" duration="2528000" />
       <workItem from="1709899667404" duration="829000" />
+      <workItem from="1712781319547" duration="1062000" />
+      <workItem from="1712784263914" duration="25058000" />
+      <workItem from="1712839161132" duration="7208000" />
+      <workItem from="1712849377088" duration="17907000" />
+      <workItem from="1712872514917" duration="3446000" />
+      <workItem from="1737892723960" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="* init">
       <option name="closed" value="true" />
@@ -213,9 +251,30 @@
       <option name="project" value="LOCAL" />
       <updated>1709899809794</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[CSJHW-6]: First two tasks solution">
+      <option name="closed" value="true" />
+      <created>1712864511389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712864511389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[CSJHW-6]: Third task solution">
+      <option name="closed" value="true" />
+      <created>1712875679270</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712875679270</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -228,9 +287,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="* init" />
     <MESSAGE value="* add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="* add gitignore" />
+    <MESSAGE value="[CSJHW-6]: First two tasks solution" />
+    <MESSAGE value="[CSJHW-6]: Third task solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="[CSJHW-6]: Third task solution" />
   </component>
 </project>
